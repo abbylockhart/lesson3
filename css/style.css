@@ -1,0 +1,148 @@
+body {
+    background-color: #ffc8c8;
+
+}
+    h1{
+    font-size: 3em;
+    color:#F04C54;
+    font-family: 'Caprasimo', cursive;
+    margin: 2%;
+
+
+  
+
+  }  
+  h2{
+    font-size:12pt;
+    color:#ffffff;
+    font-family: 'Caprasimo', cursive;
+
+    margin: 2%;
+
+  }
+
+  h3{font-size: 3emx;
+    color:#ff8892;
+    font-family: 'Caprasimo', cursive;
+    margin: 2%;
+
+  }
+
+  h4{
+    font-size: 3emx;
+    color:#ffe188;
+    font-family: 'Caprasimo', cursive;
+    margin: 2%;
+
+
+  }
+  li {
+    color:#202020;
+    font-family: 'Poppins', sans-serif;
+    font-size: .8em;
+    
+  }
+
+
+  p{
+    font-size: .8em;
+    color:#202020;
+    font-family: 'Poppins', sans-serif;
+    margin: 2%;
+    
+
+    
+  }
+ 
+  a {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: normal;
+    
+  }
+  
+  a:link{
+    text-decoration: none;
+    color:#ffc8c8;
+    
+  }
+
+  a:hover {
+    color: #88000b;
+    font-weight: bold;
+
+  }
+  a:active {
+    color:rgb(107, 0, 122)
+
+  }
+
+  a:visited {
+    color:#5c0079
+    
+  }
+
+
+  hr {
+    border: 1px solid #ffffff;
+    width: 98%;
+    align-items:right;
+    margin:5px;
+    size: 30px;
+
+  }
+
+
+  div{
+    background-color: #f04c54c0;
+    padding: 5px 5px;
+    margin:5px;
+
+  }
+
+  img {
+    width:500px;
+    padding: 10px;
+    opacity: 70%;
+    border-style: dotted;
+    border-width: 10px;
+    border-radius: 15%;
+    margin: 20px;
+    border-color: #ffe188;
+    
+   
+
+  }
+
+  .TeamPhoto {
+    width: 950px;
+    padding: 10px;
+    border: 3px solid #88000b;
+    opacity: 100%;
+    border-radius: 20px;
+  }
+
+  table, tr, td {
+
+    border: 1px solid #fff;
+    border-collapse: collapse;
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px 5px 10px 40px;
+  
+    
+  }
+
+  th {
+
+    
+    border: 1px solid #fff;
+    border-collapse: collapse;
+    padding: 10px;
+    color: #ffe188;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px 5px 10px 40px;
+    font-style: italic;
+
+  }
+ 
